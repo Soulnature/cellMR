@@ -1,0 +1,125 @@
+Supplementary Table 2: The GWAS summary statistics for imaging-derived phenotypes used in this research.,,,,,,,,,
+TraitCategory,TraitCategoryAbbr,Trait,TraitAbbr,DataSource,Population,Sample size,FileLink,PMID,Year
+White matter microstructure phenotype,WMMP,Mean FA of anterior corona radiata,ACR_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of anterior limb of internal capsule,ALIC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Average FA across all the 21 white matter tracts,Average_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of body of corpus callosum,BCC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of cingulum (cingulate gyrus) ,CGC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of cingulum (hippocampus) ,CGH_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of corticospinal tract ,CST_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of external capsule ,EC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of fornix (column and body of fornix),FX_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of fornix-stria terminalis ,FXST_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of genu of corpus callosum,GCC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of inferior fronto-occipital fasciculus,IFO_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of posterior corona radiata ,PCR_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of posterior limb of internal capsule,PLIC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of posterior thalamic radiation,PTR_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of retrolenticular part of internal capsule,RLIC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of splenium of corpus callosum,SCC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of superior corona radiata,SCR_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of superior fronto-occipital fasciculus,SFO_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of superior longitudinal fasciculus,SLF_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of sagittal stratum,SS_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+White matter microstructure phenotype,WMMP,Mean FA of uncinate fasciculus,UNC_FA,UKB,EUR,"33,292",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,34140357,2021
+Brain regional volume,BRV,Left caudal anterior cingulate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left lateral orbitofrontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,WVol,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,BVol,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left lingual,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left medial orbitofrontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left middle temporal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left parahippocampal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left paracentral,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left pars opercularis,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left pars orbitalis,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left pars triangularis,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left pericalcarine,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left caudal middle frontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left postcentral,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left posterior cingulate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left precentral,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left precuneus,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left rostral anterior cingulate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left rostral middle frontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left superior frontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left superior parietal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left superior temporal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left supramarginal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left cuneus,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left transverse temporal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left insula,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right caudal anterior cingulate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right caudal middle frontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right cuneus,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right entorhinal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right fusiform,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right inferior parietal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right inferior temporal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right isthmus cingulate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left entorhinal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right lateral occipital,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right lateral orbitofrontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right lingual,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right medial orbitofrontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right middle temporal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right parahippocampal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right paracentral,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right pars opercularis,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right pars orbitalis,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right pars triangularis,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left fusiform,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right pericalcarine,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right postcentral,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right posterior cingulate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right precentral,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right precuneus,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right rostral anterior cingulate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right rostral middle frontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right superior frontal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right superior parietal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right superior temporal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left inferior parietal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right supramarginal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right transverse temporal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right insula,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Cerebellar vermal lobules I,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Cerebellar vermal lobules VI VII,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Cerebellar vermal lobules VIII,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left basal forebrain,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right basal forebrain,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Brain stem,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,CSF,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left inferior temporal,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,X3rd ventricle,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,X4th ventricle,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Optic chiasm,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left lateral ventricle,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left inferior lateral ventricle,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left cerebellum exterior,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left cerebellum white matter,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left thalamus proper,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left caudate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left putamen,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left isthmus cingulate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left pallidum,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left hippocampus,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left amygdala,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left accumbens area,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left ventral DC,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left vessel,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right lateral ventricle,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right inferior lateral ventricle,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right cerebellum exterior,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right cerebellum white matter,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Left lateral occipital,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right thalamus proper,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right caudate,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right putamen,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right pallidum,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right hippocampus,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right amygdala,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right accumbens area,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right ventral DC,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,Right vessel,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019
+Brain regional volume,BRV,GVol,,UKB,EUR,"19,629",https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/,23227001,2019

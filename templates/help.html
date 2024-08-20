@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}Help{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>Help</h1>
+
+    <div class="faq-section">
+        <div class="faq-item">
+            <h2>Q1：IDPs and DBs</h2>
+            <h3><b>For brain disorders, there are 26 different brain disorders and phenotypes</b>></h3>
+            <li> Behavioral-cognitive phenotypes</li>
+           <p>(1)Automobile speeding propensity (ASP): 404,291 individuals
+                (2) Childhood intelligence (CI): 12,441 individuals
+                (3) Drinks per week (DPW): 941,280 individuals
+                (4) Educational attainment (EA): 766,345 individuals
+                (5) General risk tolerance (GRT): 466,571 individuals
+                (6) Intelligence (INT): 269,867 individuals
+                (7) Neuroticism (NEU): 390,278 individuals
+                (8) Smoking cessation (SC): 547,219 individuals
+             <p>
+               <li>Neurological disorders</li>
+	        <p>
+            (1) Alzheimer's disease (AD): 71,880 cases and 383,378 controls
+            (2) Amyotrophic lateral sclerosis (ALS): 20,806 cases and 59,804 controls
+            (3) Epilepsy (EPI): 15,212 cases and 29,677 controls
+            (4) Intracerebral hemorrhage (ICH): 1,545 cases and 1,481 controls
+            (5) Insomnia (INS): 109,548 cases and 277,440 controls
+            (6) Ischemic stroke (IS): 67,162 cases and 454,450 controls
+            (7) Multiple sclerosis (MS): 47,429 cases and 68,374 controls
+            (8) Parkinson's disease (PD): 33,674 cases and 449,056 controls
+        </p>
+            <li>Psychiatric disorders</li>
+            <p>
+            (1) Attention-deficit/hyperactivity disorder (ADHD): 20,183 cases and 35,191 controls
+            (2) Anxiety disorder (ANX): 25,453 cases and 58,113 controls
+            (3) Autism spectrum disorder (ASD): 18,381 cases and 27,969 controls
+            (4) Alcohol use disorder (AUD): 11,569 cases and 34,999 controls
+            (5) Bipolar disorder (BIP): 41,917 cases and 371,549 controls
+            (6) Major depressive disorder (MDD): 135,458 cases and 344,901 controls
+            (7) Obsessive-compulsive disorder (OCD): 2,688 cases and 7,037 controls
+            (8) Post-traumatic stress disorder (PTSD): 9,831 cases and 19,225 controls
+            (9) Schizophrenia (SCZ): 76,755 cases and 243,649 controls
+            (10) Tourette syndrome (TS): 4,819 cases and 9,488 controls
+</p>
+            <h3><b>For brain IDPs, you can download the <a href="{{ url_for('static', filename='IDP.csv') }}">supplementary file</a> to look around</b>></h3>
+        </div>
+        <div class="faq-item">
+            <h2>Q2：Still have Questions？</h2>
+               <span class="s2">If you have any questions about our website or the repository's results, or if you have suggestions for enhancements, please email <span style="color:#50C8F3">yanganyi_angie@163.com</span></span><br><br>
+        <span class="s2">If you would like to cooperate with us or conduct academic exchanges, please email <span style="color:#50C8F3">naturescarl@gmail.com</span></span>
+        </div>
+    </div>
+</div>
+{% endblock %}

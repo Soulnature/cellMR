@@ -1,0 +1,207 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background: #004080;
+    padding: 50px 0;
+    color: #fff;
+}
+
+.logo {
+    float: top;
+    max-height: 40px;
+}
+
+nav ul {
+    list-style: none;
+    float: right;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a.active,
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.hero {
+    background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)), url('../static/background.jpg') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    margin: 0 0 20px;
+}
+
+.hero-content p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.search-form select,
+.search-form input {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 1em;
+}
+
+.search-form button {
+    padding: 10px 20px;
+    background: #ff8c00;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search-form button:hover {
+    background: #e67e00;
+}
+
+.note {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #ffdd00;
+}
+
+.content {
+    padding: 0px 0;
+}
+
+.content h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 1.1em;
+    line-height: 1.6em;
+}
+
+.table-container {
+    overflow-x: auto; /* 启用水平滚动 */
+    overflow-y: auto; /* 启用垂直滚动 */
+    max-height: 500px; /* 设定一个最大高度，超过时才会出现垂直滚动条 */
+    white-space: nowrap; /* 防止表格内容换行，使表格宽度超出容器时启用水平滚动 */
+    border: 1px solid #ddd; /* 为表格添加边框 */
+}
+
+.table-container table {
+    width: 100%;
+    border-collapse: collapse;
+    white-space: nowrap; /* 确保表格内容不会换行 */
+}
+
+.table-container th, .table-container td {
+    padding: 8px 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.table-container th {
+    background-color: #f4f4f4;
+}
+.faq-section {
+    margin-top: 20px;
+}
+
+.faq-item {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.faq-item h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.faq-item p {
+    margin: 10px 0 0;
+    font-size: 1.1em;
+    line-height: 1.6em;
+    color: #555;
+}
+.about-section {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+.about-left {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.about-right {
+    flex: 2;
+}
+
+.profile-photo {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.about-text {
+    margin-bottom: 20px;
+}
+
+.about-text h2 {
+    margin-top: 0;
+    font-size: 1.8em;
+    color: #333;
+}
+
+.about-text p {
+    font-size: 1.1em;
+    line-height: 1.6em;
+    color: #555;
+}
+
+.contact-info h3 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.email-icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 10px;
+}

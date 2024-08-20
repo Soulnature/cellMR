@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}About{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>About</h1>
+
+    <div class="about-section">
+        <div class="about-left">
+            <img src="{{ url_for('static', filename='about_img.png') }}" alt="Profile Photo" class="profile-photo">
+        </div>
+        <div class="about-right">
+            <div class="about-text">
+                <h2>Biomed AI Lab </h2>
+                <p>Biomed AI Lab focuses on the cross research of artificial intelligence and biomedicine. The team members come from different disciplines such as computer, mathematics, biology and physics. Based on multimodal biomedical big data, the laboratory develops and applies artificial intelligence algorithm theory and technology for health risk prediction, intelligent diagnosis, treatment and intervention, prognosis evaluation, etc. In recent years, focusing on the characteristics of biomedical big data, a series of artificial intelligence algorithms have been developed, which have been successfully applied to brain-gut axis, brain development, brain diseases and other scenes. Relevant work has been published in Nature, Science, Cell, Cell Metabolism, IEEE TPAMI, Molecular Psychology, Nature Communications and other journals. And has won the first prize of Wu Wenjun Artificial Intelligence Natural Science Award and the second prize of Natural Science of the Ministry of Education. The group has undertaken National Key Research and Development Plan Projects, key and general projects of National Natural Science Foundation of China, and sub projects of Major Science and Technology Projects in Shanghai,etc.</p>
+            </div>
+            <div class="contact-info">
+                <h3>Contact</h3>
+                <p><img src="{{ url_for('static', filename='email.png') }}" alt="Email Icon" class="email-icon"> <a href="mailto:xmzhao@fudan.edu.cn">xmzhao AT fudan.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

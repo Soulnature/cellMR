@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}Brain-cellMR: cell type & Brain IDPs & Psychiatric Disorders{% endblock %}
+{% block content %}
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Brain-cellMR: Deciphering causal relationships between cell type-specific genetic factors and brain imaging-derived phenotypes and disorders</h1>
+            <p>A Database Of Causal Relationships Between Imaging-Derived Phenotypes,Brain Disorders and Brain cell types</p>
+
+          <form method="POST" action="{{ url_for('search_results') }}" class="search-form">
+                <select name="result">
+                    <option value="idp">Imaging-derived phenotypes</option>
+                    <option value="db">Disorder</option>
+                </select>
+                <select name="cell_type">
+                    <option value="Astrocytes">Astrocytes</option>
+                    <option value="Oligodendrocytese">oligodendrocytese</option>
+                    <option value="OPC...COPs">OPCs</option>
+                    <option value="Microglia">microglia</option>
+                    <option value="Excitatory.neurons">Excitatory neurons</option>
+                    <option value="Inhibitory.neurons">Inhibitory neurons</option>
+                    <option value="Endothelial.cells">endothelial cells</option>
+                    <option value="Pericytes">pericytes</option>
+                </select>
+                <input type="text" name="keyword" placeholder="Keyword for IDP or disorder name">
+                <button type="submit">Search</button>
+          </form>
+            <p class="note">Note:  MR: cell → Disorder or IDP</p>
+        </div>
+    </section>
+
+    <section class="content">
+        <div class="container">
+            <h2>Welcome</h2>
+            <p> Our analysis constructs a cell type-specific causal gene atlas for IDPs and DBs, which include 254 and 217 potential causal cell type-specific eQTL target genes (eGenes) for IDPs and DBs</p>
+
+            <h2>Citations</h2>
+            <p>To cite the results from this database, please cite our paper:  ###</p>
+
+            <h2>Update</h2>
+            <p>August 20, 2024: inital version was released</p>
+        </div>
+    </section>
+{% endblock %}
